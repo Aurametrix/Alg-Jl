@@ -1,4 +1,5 @@
-Julia is a high-level, high-performance dynamic programming language for technical computin
+Julia 
+High-level, high-performance dynamic programming language for technical computing
 
 http://julialang.org/
 
