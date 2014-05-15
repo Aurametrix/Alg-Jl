@@ -1,8 +1,32 @@
 Julia 
 High-level, high-performance dynamic programming language for technical computing
+as fast as C, as easy to use as Python, and as statistically inclined as R
 
 http://julialang.org/
 
 To run a program in the console:
 
 julia> include("../Alg-Jl/hello.jl")
+
+To install Julia packages run Pkg.add("PACKAGENAME") within the Julia interpreter.
+
+Try Julia:
+
+http://forio.com/julia/repl/
+
+Examples
+
+http://stuff.mit.edu/afs/athena/software/julia_v1.24.13/julia/examples/
+https://github.com/JuliaLang/julia/tree/master/examples/
+http://learnxinyminutes.com/docs/julia/
+https://github.com/joewing/jl/tree/master/examples
+
+http://stuff.mit.edu/afs/athena/software/julia_v0.2.0-pre/julia/test/sorting.jl
+
+http://forio.com/products/julia-studio/tutorials/beginner/2/
+
+Julia for Matlab Users
+http://sveme.org/julia-for-matlab-users-i.html
+Neural Networks
+http://blog.yhathq.com/posts/julia-neural-networks.html
+
