@@ -1,3 +1,4 @@
+# split training data into separate train and test groups
 # it's like SciPy had a love child with R
 y = vector(train_df["quality"])
 X = matrix(train_df[[colnames(train_df) .!= "quality"]])
