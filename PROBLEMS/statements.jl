@@ -38,7 +38,7 @@ for i in 0:(2^NDIG-1)
     mhist[NDIG-mcnt+1] += 1
     mcnt < 2 || mcnt == NDIG || continue
     if mcnt == 0
-        print("    Exact Match: ")
+        print("    The Answer: ")
     elseif mcnt == NDIG
         print("     Total Miss: ")
     else
