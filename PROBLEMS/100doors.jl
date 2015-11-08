@@ -1,7 +1,1 @@
-doors = falses(100)
-for a = 1:100, b in a:a:100
-    doors[b] = !doors[b]
-end
-for a = 1:100
-    println("Door $a is " * (doors[a] ? "open." : "closed.")) 
-end
+for i = 1:10 println("Door $(i^2) is open.") end
