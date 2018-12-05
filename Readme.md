@@ -30,3 +30,4 @@ http://sveme.org/julia-for-matlab-users-i.html
 Neural Networks
 http://blog.yhathq.com/posts/julia-neural-networks.html
 
+[GPUs](https://julialang.org/blog/2018/12/ml-language-compiler)
