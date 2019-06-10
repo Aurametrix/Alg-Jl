@@ -14,6 +14,8 @@ Try Julia:
 
 http://forio.com/julia/repl/
 
+MATLAB–Python–Julia cheatsheet:  https://cheatsheets.quantecon.org/
+
 Examples
 
 http://stuff.mit.edu/afs/athena/software/julia_v1.24.13/julia/examples/
