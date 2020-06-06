@@ -27,6 +27,10 @@ http://stuff.mit.edu/afs/athena/software/julia_v0.2.0-pre/julia/test/sorting.jl
 
 http://forio.com/products/julia-studio/tutorials/beginner/2/
 
+
+### Interesting Projects
+
++ [Unicode-based Scientific Plotting](https://github.com/Evizero/UnicodePlots.jl)
 Julia for Matlab Users
 http://sveme.org/julia-for-matlab-users-i.html
 Neural Networks
