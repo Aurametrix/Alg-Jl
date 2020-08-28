@@ -31,9 +31,12 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 ### Interesting Projects
 
 + [Unicode-based Scientific Plotting](https://github.com/Evizero/UnicodePlots.jl)
-Julia for Matlab Users
-http://sveme.org/julia-for-matlab-users-i.html
-Neural Networks
-http://blog.yhathq.com/posts/julia-neural-networks.html
 
-[GPUs](https://julialang.org/blog/2018/12/ml-language-compiler)
+
++ Julia for Matlab Users: http://sveme.org/julia-for-matlab-users-i.html
+
++ Neural Networks: http://blog.yhathq.com/posts/julia-neural-networks.html
+
++ [GPUs](https://julialang.org/blog/2018/12/ml-language-compiler)
+
++ [Pluto](https://github.com/fonsp/Pluto.jl)
