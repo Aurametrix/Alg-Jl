@@ -40,3 +40,6 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 + [GPUs](https://julialang.org/blog/2018/12/ml-language-compiler)
 
 + [Pluto](https://github.com/fonsp/Pluto.jl)
+
++ [MIMIX](https://github.com/nsgrantham/mimix) - a Bayesian Mixed-Effects Model for
+Microbiome Data;  [paper](https://arxiv.org/pdf/1703.07747.pdf)
