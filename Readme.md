@@ -43,3 +43,5 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 + [MIMIX](https://github.com/nsgrantham/mimix) - a Bayesian Mixed-Effects Model for
 Microbiome Data;  [paper](https://arxiv.org/pdf/1703.07747.pdf)
+
++ [Quantitative Economics with Julia](https://julia.quantecon.org/index_toc.html)
