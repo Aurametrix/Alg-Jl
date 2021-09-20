@@ -27,6 +27,9 @@ http://stuff.mit.edu/afs/athena/software/julia_v0.2.0-pre/julia/test/sorting.jl
 
 http://forio.com/products/julia-studio/tutorials/beginner/2/
 
+[Updating views in DataFrames.jl](https://bkamins.github.io/julialang/2021/09/17/views.html)
+
+
 
 ### Interesting Projects
 
