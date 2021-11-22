@@ -37,6 +37,7 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 
 + Julia for Matlab Users: http://sveme.org/julia-for-matlab-users-i.html
++ Symbolic Mathematics in Julia: https://juliasymbolics.org/
 
 + Neural Networks: http://blog.yhathq.com/posts/julia-neural-networks.html
 
