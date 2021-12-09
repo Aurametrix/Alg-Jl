@@ -29,6 +29,7 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 [Updating views in DataFrames.jl](https://bkamins.github.io/julialang/2021/09/17/views.html)
 
+[Type Stability in Julia](https://arxiv.org/abs/2109.01950) - avoiding performance pathologies
 
 
 ### Interesting Projects
@@ -51,3 +52,4 @@ Microbiome Data;  [paper](https://arxiv.org/pdf/1703.07747.pdf)
 + [Quantitative Economics with Julia](https://julia.quantecon.org/index_toc.html)
 
 + [A WIP compile time type checker](https://github.com/aviatesk/JET.jl)
+
