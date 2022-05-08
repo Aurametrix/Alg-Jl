@@ -35,6 +35,7 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 ### Interesting Projects
 
 + [Unicode-based Scientific Plotting](https://github.com/Evizero/UnicodePlots.jl)
++ [Cuda programming](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html)
 
 
 + Julia for Matlab Users: http://sveme.org/julia-for-matlab-users-i.html
