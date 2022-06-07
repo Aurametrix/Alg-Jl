@@ -36,6 +36,7 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 + [Unicode-based Scientific Plotting](https://github.com/Evizero/UnicodePlots.jl)
 + [Cuda programming](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html)
++ [Starlight](https://github.com/jhigginbotham64/Starlight.jl) - game engine
 
 
 + Julia for Matlab Users: http://sveme.org/julia-for-matlab-users-i.html
