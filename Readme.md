@@ -29,6 +29,8 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 [Updating views in DataFrames.jl](https://bkamins.github.io/julialang/2021/09/17/views.html)
 
+[What's great about Julia](https://viralinstruction.com/posts/goodjulia/) /12/7/2022/
+
 [Type Stability in Julia](https://arxiv.org/abs/2109.01950) - avoiding performance pathologies
 
 
