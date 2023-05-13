@@ -33,6 +33,8 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 [Type Stability in Julia](https://arxiv.org/abs/2109.01950) - avoiding performance pathologies
 
+[Julia 1.9.0](https://bkamins.github.io/julialang/2023/05/12/julia190.html) -  lives up to its promise
+
 
 ### Interesting Projects
 
