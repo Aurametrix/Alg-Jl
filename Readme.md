@@ -35,6 +35,8 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 
 [Julia 1.9.0](https://bkamins.github.io/julialang/2023/05/12/julia190.html) -  lives up to its promise
 
+[the state of Julia](https://www.youtube.com/watch?v=jFhL8EVrz7s) - video
+
 
 ### Interesting Projects
 
