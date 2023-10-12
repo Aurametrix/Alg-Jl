@@ -38,6 +38,8 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 [the state of Julia](https://www.youtube.com/watch?v=jFhL8EVrz7s) - video
 
 
+
+
 ### Interesting Projects
 
 + [Unicode-based Scientific Plotting](https://github.com/Evizero/UnicodePlots.jl)
@@ -53,6 +55,7 @@ http://forio.com/products/julia-studio/tutorials/beginner/2/
 + [GPUs](https://julialang.org/blog/2018/12/ml-language-compiler)
 
 + [Pluto](https://github.com/fonsp/Pluto.jl)
++ [Geospatial Data Science](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 
 + [MIMIX](https://github.com/nsgrantham/mimix) - a Bayesian Mixed-Effects Model for
 Microbiome Data;  [paper](https://arxiv.org/pdf/1703.07747.pdf)
